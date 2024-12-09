@@ -1,0 +1,14 @@
+#Responsive design
+#Brickor numrerade 1 och uppåt. (Menas?)
+#Exakt 1 tomrum för att kunna flytta brickor.
+#Brickor ska flyttas genom att klicka på en bricka i samma kolumn eller rad som den tomma rutan.¨
+#All text skall vara i google font open sans
+#Brickornas intiala ordning ska slumpas
+#Knapp för att slumpa ordningen
+#OM spelet är slut ska det informeras till användaren,
+#Det behöver inte finnas något UI för att välja antalet rader och kolumner.
+#Config fil med inställningar som är hårdkodade.
+
+
+#React och typescript ska användas.
+#Skriv några rader om antaganden och brister.
